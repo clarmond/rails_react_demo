@@ -8,6 +8,11 @@ body {
     padding: 5px 20px;
 }
 
+.league-logo {
+    height: 25px;
+    padding-right: 8px;
+}
+
 .team-logo {
     display: inline-block;
     text-align: center;
