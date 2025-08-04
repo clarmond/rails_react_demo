@@ -27,7 +27,7 @@ function App() {
         { isLoading ? (
           <Loading />
         ) : (
-          <Tabs defaultActiveKey="division">
+          <Tabs defaultActiveKey="division" transition={false}>
             <Tab eventKey="division" title="Division">
               <Standings data={divisionStandings} />
             </Tab>
