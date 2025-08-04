@@ -47,3 +47,7 @@ Create a `.env` file with the following line:
 `npm run dev`
 
 Open http://localhost:3001/
+
+### Preview
+
+![Demo](./demo.gif "App demo") 
