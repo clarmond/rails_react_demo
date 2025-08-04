@@ -48,6 +48,6 @@ Create a `.env` file with the following line:
 
 Open http://localhost:3001/
 
-### Preview
+## Preview
 
 ![Demo](./demo.gif "App demo") 
