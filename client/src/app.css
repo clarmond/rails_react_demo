@@ -22,6 +22,10 @@ body {
     height: 18px;
 }
 
+th:first-of-type {
+    width: 50%;
+}
+
 @media only screen and (max-width: 600px) {
     td, th {
         font-size: 14px;
