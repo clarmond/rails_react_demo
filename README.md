@@ -1,7 +1,7 @@
 # Rails React Demo
 
 ## Introduction
-This application serves no real purpose other than to be a learning project for
+This application serves no real purpose other than to be a demonstration of
 [Ruby on Rails](https://rubyonrails.org/) and [React](https://react.dev/).
 
 What this app does:
