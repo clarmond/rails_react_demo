@@ -1,0 +1,182 @@
+[
+    {
+        "name": "Arizona Diamondbacks",
+        "league": "NL",
+        "division": "West",
+        "abbrev": "ari"
+    },
+    {
+        "name": "Athletics",
+        "league": "AL",
+        "division": "West",
+        "abbrev": "oak"
+    },
+    {
+        "name": "Atlanta Braves",
+        "league": "NL",
+        "division": "East",
+        "abbrev": "atl"
+    },
+    {
+        "name": "Baltimore Orioles",
+        "league": "AL",
+        "division": "East",
+        "abbrev": "bal"
+    },
+    {
+        "name": "Boston Red Sox",
+        "league": "AL",
+        "division": "East",
+        "abbrev": "bos"
+    },
+    {
+        "name": "Chicago Cubs",
+        "league": "NL",
+        "division": "Central",
+        "abbrev": "chc"
+    },
+    {
+        "name": "Chicago White Sox",
+        "league": "AL",
+        "division": "Central",
+        "abbrev": "cws"
+    },
+    {
+        "name": "Cincinnati Reds",
+        "league": "NL",
+        "division": "Central",
+        "abbrev": "cin"
+    },
+    {
+        "name": "Cleveland Guardians",
+        "league": "AL",
+        "division": "Central",
+        "abbrev": "cle"
+    },
+    {
+        "name": "Colorado Rockies",
+        "league": "NL",
+        "division": "West",
+        "abbrev": "col"
+    },
+    {
+        "name": "Detroit Tigers",
+        "league": "AL",
+        "division": "Central",
+        "abbrev": "det"
+    },
+    {
+        "name": "Houston Astros",
+        "league": "AL",
+        "division": "West",
+        "abbrev": "hou"
+    },
+    {
+        "name": "Kansas City Royals",
+        "league": "AL",
+        "division": "Central",
+        "abbrev": "kc"
+    },
+    {
+        "name": "Los Angeles Angels",
+        "league": "AL",
+        "division": "West",
+        "abbrev": "laa"
+    },
+    {
+        "name": "Los Angeles Dodgers",
+        "league": "NL",
+        "division": "West",
+        "abbrev": "lad"
+    },
+    {
+        "name": "Miami Marlins",
+        "league": "NL",
+        "division": "East",
+        "abbrev": "mia"
+    },
+    {
+        "name": "Milwaukee Brewers",
+        "league": "NL",
+        "division": "Central",
+        "abbrev": "mil"
+    },
+    {
+        "name": "Minnesota Twins",
+        "league": "AL",
+        "division": "Central",
+        "abbrev": "min"
+    },
+    {
+        "name": "New York Mets",
+        "league": "NL",
+        "division": "East",
+        "abbrev": "nym"
+    },
+    {
+        "name": "New York Yankees",
+        "league": "NL",
+        "division": "East",
+        "abbrev": "nyy"
+    },
+    {
+        "name": "Philadelphia Phillies",
+        "league": "NL",
+        "division": "East",
+        "abbrev": "phi"
+    },
+    {
+        "name": "Pittsburgh Pirates",
+        "league": "NL",
+        "division": "East",
+        "abbrev": "pit"
+    },
+    {
+        "name": "San Diego Padres",
+        "league": "NL",
+        "division": "West",
+        "abbrev": "sd"
+    },
+    {
+        "name": "San Francisco Giants",
+        "league": "NL",
+        "division": "West",
+        "abbrev": "sf"
+    },
+    {
+        "name": "Seattle Mariners",
+        "league": "AL",
+        "division": "West",
+        "abbrev": "sea"
+    },
+    {
+        "name": "St. Louis Cardinals",
+        "league": "NL",
+        "division": "Central",
+        "abbrev": "stl"
+    },
+    {
+        "name": "Tampa Bay Rays",
+        "league": "AL",
+        "division": "East",
+        "abbrev": "tb"
+    },
+    {
+        "name": "Texas Rangers",
+        "league": "AL",
+        "division": "West",
+        "abbrev": "tex"
+    },
+    {
+        "name": "Toronto Blue Jays",
+        "league": "AL",
+        "division": "East",
+        "abbrev": "tor"
+    },
+    {
+        "name": "Washington Nationals",
+        "league": "NL",
+        "division": "East",
+        "abbrev": "wsh"
+    }
+]
